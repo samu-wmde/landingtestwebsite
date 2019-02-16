@@ -1,0 +1,71 @@
+h1 {
+	color:#FF530D;
+	font-family:"Roboto Condensed",sans-serif;
+	padding: 50px;
+	margin: 0;
+}
+h2 {
+	color:#00ADB5;
+	font-family:"Staatliches",cursive;
+	text-align:center;
+}
+
+p {
+	color: grey;
+	font-family: "Staatliches",cursive;
+	font-size: 20px;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: grey;
+}
+
+a:hover {
+	color:white;
+}
+
+#banner {
+	text-align: center;
+	background-image: url("https://images.unsplash.com/photo-1524654458049-e36be0721fa2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80");
+	padding: 20px;
+	background-size: cover;
+}
+
+#banner h1{
+	color: white;
+	font-size: 50px;
+	}
+
+#banner p {
+	color: white;
+	opacity: 0.8;
+	font-size: 30px;
+	font-weight: lighter;
+}
+
+
+
+#footer
+{
+	padding:10px;
+	background-color: rgb(30 30 30);
+	color:white;
+}
+
+.section{
+	padding:10px;
+	font-weight: lighter;
+
+
+
+}
+
+.fab {
+	color:white;
+}
+
+.fab:hover {
+	color:#00ADB5;
+}
